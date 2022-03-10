@@ -256,3 +256,10 @@ img {
     grid-template-columns: repeat(1, 1fr);
   }
 }
+h3 {
+  text-align: center;
+  margin: auto;
+}
+p{
+  padding: 20px;
+}
